@@ -4,7 +4,7 @@
 
 
 ## 🌐 Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://br.linkedin.com/in/guilhermestanger?trk=public_post_feed-actor-name) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://br.linkedin.com/in/guilhermestanger?trk=public_post_feed-actor-name](https://br.linkedin.com/in/guilhermestanger?trk=public_post_feed-actor-name&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)) 
 
 
 # 💻 Tech Stack:
